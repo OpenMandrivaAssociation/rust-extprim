@@ -5,8 +5,8 @@
 %global crate extprim
 
 Name:           rust-%{crate}
-Version:        1.7.0
-Release:        3%{?dist}
+Version:        1.7.1
+Release:        1%{?dist}
 Summary:        Extra primitive types (u128, i128)
 
 # Upstream license specification: MIT/Apache-2.0
